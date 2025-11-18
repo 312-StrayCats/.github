@@ -1,2 +1,4 @@
 # R&D team MKULTRA 312klp
-![MKULTRA team](./imgs/20251118_0901_Żołnierze%20w%20Brązowych%20Beretach_remix_01kaazknqnebd9r06empkpfkwg.png "MKULTRA team")
+<img src="./imgs/20251118_0901_Żołnierze w Brązowych Beretach_remix_01kaazknqnebd9r06empkpfkwg.png"
+     alt="MKULTRA team"
+     width="300">
